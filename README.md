@@ -23,4 +23,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Visit live deployed version: https://zeeshan2512.github.io/Soting-Algo-Visualizer/
+Visit live deployed version: https://zeeshan2512.github.io/Sorting-Algo-Visualiser/
